@@ -1,17 +1,38 @@
 <!-- ============================================================
-  GITHUB PROFILE README TEMPLATE
-  To use: create a repo named EXACTLY your GitHub username
-  (e.g. github.com/yourusername/yourusername), public, and put
-  this file as README.md in it. GitHub shows it on your profile.
+  GITHUB PROFILE README — FINAL
+  Repo name must be EXACTLY: lingamanigandan
+  (github.com/lingamanigandan/lingamanigandan) → README.md
 ============================================================= -->
 
 <!-- Top badges row -->
 <p align="right">
   <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=wakatime&query=%24.data.human_readable_total&url=https://wakatime.com/api/v1/users/YOUR_WAKATIME_USERNAME/stats?api_key=YOUR_API_KEY" alt="wakatime"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=lingamanigandan&color=brightgreen" alt="profile views"/>
 </p>
 
 <h1 align="center">Hey There! 👋 I am <span style="color:#61dafb">Your Name</span></h1>
+
+<!-- Neofetch block — MUST be inside a code fence or GitHub won't preserve spacing -->
+```
+C:\Users\LINGAMANIGANDAN>neofetch
+
+                                ..,
+                    ....,,:;+ccllll            LINGAMANIGANDAN@ALPHA-LORD
+      ...,,+:;  cllllllllllllllllll            --------------------------
+,cclllllllllll  lllllllllllllllllll            OS: Windows 10 Pro
+llllllllllllll  lllllllllllllllllll            Build: 22H2 (19045)
+llllllllllllll  lllllllllllllllllll            CPU: Intel(R) Core(TM) i5-4300U @ 1.90GHz
+llllllllllllll  lllllllllllllllllll            GPU: Intel(R) HD Graphics Family
+llllllllllllll  lllllllllllllllllll            Memory: 6528 MB / 10145 MB
+llllllllllllll  lllllllllllllllllll            Shell: Command Prompt
+llllllllllllll  lllllllllllllllllll            Editor: VS Code
+llllllllllllll  lllllllllllllllllll            Languages: Language1, Language2
+llllllllllllll  lllllllllllllllllll            Role: Your Role
+`'ccllllllllll  lllllllllllllllllll            Hobby: your hobbies here
+      `' \\*::  :ccllllllllllllllll
+                       ````''*::cll
+                                 ``
+```
 
 <p align="center">
   <a href="https://your-portfolio-link.com">🔗 Google Me / Portfolio</a>
@@ -58,15 +79,12 @@ I'm a full-stack developer who loves building things for the web. A few highligh
 
 ### 📌 My Top Open Source Projects
 
-<!-- These render automatically once you pin repos on your GitHub profile,
-     but you can also link them manually like this: -->
-
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME/REPO_ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&theme=radical" />
+  <a href="https://github.com/lingamanigandan/REPO_ONE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingamanigandan&repo=REPO_ONE&theme=radical" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&theme=radical" />
+  <a href="https://github.com/lingamanigandan/REPO_TWO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lingamanigandan&repo=REPO_TWO&theme=radical" />
   </a>
 </p>
 
@@ -75,8 +93,8 @@ I'm a full-stack developer who loves building things for the web. A few highligh
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lingamanigandan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingamanigandan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
