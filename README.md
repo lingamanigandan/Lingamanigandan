@@ -17,18 +17,18 @@
 C:\Users\LINGAMANIGANDAN>neofetch
 
                                 ..,
-                    ....,,:;+ccllll            LINGAMANIGANDAN@ALPHA-LORD
+                    ....,,:;+ccllll            LINGAMANIGANDAN RAMALINGAM
       ...,,+:;  cllllllllllllllllll            --------------------------
-,cclllllllllll  lllllllllllllllllll            OS: Windows 10 Pro
+,cclllllllllll  lllllllllllllllllll            Role : AI & Data Science Student | Aspiring Full-Stack Developer | AI Engineer
 llllllllllllll  lllllllllllllllllll            Build: 22H2 (19045)
 llllllllllllll  lllllllllllllllllll            CPU: Intel(R) Core(TM) i5-4300U @ 1.90GHz
 llllllllllllll  lllllllllllllllllll            GPU: Intel(R) HD Graphics Family
 llllllllllllll  lllllllllllllllllll            Memory: 6528 MB / 10145 MB
 llllllllllllll  lllllllllllllllllll            Shell: Command Prompt
-llllllllllllll  lllllllllllllllllll            Editor: VS Code
+llllllllllllll  lllllllllllllllllll            Editor: VS Code, Google colab
 llllllllllllll  lllllllllllllllllll            Languages: Language1, Language2
-llllllllllllll  lllllllllllllllllll            Role: Your Role
-`'ccllllllllll  lllllllllllllllllll            Hobby: your hobbies here
+llllllllllllll  lllllllllllllllllll            Tools: Github, figma
+`'ccllllllllll  lllllllllllllllllll            Hobby: Listening to music
       `' \\*::  :ccllllllllllllllll
                        ````''*::cll
                                  ``
