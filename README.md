@@ -100,7 +100,7 @@ goal: Building practical and scalable applications
 
 ## ◈ GITHUB ANALYTICS
 
-```html
+
 <div align="center">
 
   <!-- GitHub Statistics -->
