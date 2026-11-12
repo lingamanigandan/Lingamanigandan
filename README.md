@@ -65,7 +65,6 @@ goal: Building practical and scalable applications
 
 ## ◈ FEATURED PROJECTS
 
-```html
 <div align="center">
 
 <a href="https://github.com/lingamanigandan/wonderla">
