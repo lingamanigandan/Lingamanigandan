@@ -1,170 +1,127 @@
-# 👑 LINGAMANIGANDAN RAMALINGAM
+# 👋 HELLO WORLD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:171717,100:D4AF37&height=200&section=header&text=LINGAMANIGANDAN&fontSize=38&fontColor=D4AF37&fontAlignY=38&desc=BUILD%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descSize=15&descColor=FFFFFF&descAlignY=60" width="100%"/>
+<img src="profile.jpg" width="160" alt="Lingamanigandan Profile Photo"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=650&lines=AI+%26+DATA+SCIENCE+STUDENT;FULL+STACK+DEVELOPER;AI+%26+MACHINE+LEARNING+ENTHUSIAST;BUILDING+REAL+WORLD+APPLICATIONS" />
+# LINGAMANIGANDAN RAMALINGAM
 
-<br/>
+### AI & DATA SCIENCE STUDENT | FULL-STACK DEVELOPER
 
-<a href="https://github.com/lingamanigandan">
-<img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/>
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=D4AF37"/>
-</a>
+Building intelligent applications with modern technologies.
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/lingamanigandan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=D4AF37)](YOUR_PORTFOLIO_URL)
 
 </div>
 
 ---
 
-## ◈ ABOUT ME
+## `01` ABOUT ME
 
-name: Lingamanigandan Ramalingam
-role: AI & Data Science Student
-interests:
-  - Full-Stack Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Software Engineering
-currently_learning:
-  - Advanced Python
-  - Backend Development
-  - AI/ML Integration
-  - Cloud Computing
-goal: Building practical and scalable applications
+- 🎓 AI & Data Science Student
+- 💻 Aspiring Full-Stack Developer and AI Engineer
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🌐 Building web applications and practical software solutions
+- 🚀 Learning, developing and improving every day
 
-```
+---
 
-## ◈ TECHNOLOGY ARSENAL
+## `02` TECH STACK
 
 <div align="center">
 
-### LANGUAGES
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark"/>
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=D4AF37)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=D4AF37)
+![SQL](https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=D4AF37)
 
-### FRAMEWORKS & DATABASES
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,mongodb&theme=dark"/>
+![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=D4AF37)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=D4AF37)
+![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=D4AF37)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=D4AF37)
 
-### TOOLS & PLATFORMS
+### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,googlecloud&theme=dark"/>
+![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=D4AF37)
+![Express](https://img.shields.io/badge/Express-0D0D0D?style=for-the-badge&logo=express&logoColor=D4AF37)
+![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=D4AF37)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=D4AF37)
+![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37)
+![VS Code](https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37)
+![Figma](https://img.shields.io/badge/Figma-0D0D0D?style=for-the-badge&logo=figma&logoColor=D4AF37)
 
 </div>
 
 ---
 
-## ◈ FEATURED PROJECTS
+## `03` FEATURED PROJECTS
 
-<div align="center">
+### 💊 MediShop Pharmacy Management
 
-<a href="https://github.com/lingamanigandan/wonderla">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lingamanigandan&repo=wonderla&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=292929" width="80%"/>
-</a>
+Pharmacy management application designed to manage medicine inventory, billing, purchases, suppliers and sales.
 
-</div>
+**Technologies:** React, JavaScript, Node.js, Express, MySQL
 
-### 01. MediShop Pharmacy Management
-- Pharmacy inventory and stock management.
-- Billing and sales management.
-- Medicine batch and expiry tracking.
-- Database-driven backend.
+[View Repository](https://github.com/lingamanigandan/wonderla)
 
-`React` `Node.js` `Express` `MySQL`
+### 📈 AI Trading Prediction Chatbot
 
-### 02. AI Trading Prediction Chatbot
-- Global market analysis concept.
-- AI-based market prediction.
-- Paper trading functionality.
-- Risk and portfolio analysis.
+An AI-based trading chatbot concept focused on market analysis, prediction, technical indicators and paper trading.
 
-`Python` `Machine Learning` `APIs`
+**Technologies:** Python, AI/ML, APIs, SQL
 
-### 03. Doctor Appointment System
-- Appointment scheduling.
-- Patient and doctor management.
-- Database integration.
+### 🏥 Doctor Appointment System
 
-`Python` `SQL` `Web Technologies`
+A web application concept for managing doctor appointments and patient bookings.
+
+**Technologies:** Python, SQL, HTML, CSS, JavaScript
 
 ---
 
-## ◈ GITHUB ANALYTICS
-
-
-<div align="center">
-
-  <!-- GitHub Statistics -->
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=lingamanigandan&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&ring_color=D4AF37"
-    alt="GitHub Statistics"
-  />
-
-  <!-- Most Used Languages -->
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingamanigandan&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF"
-    alt="Most Used Languages"
-  />
-
-  <br/><br/>
-
-  <!-- GitHub Streak -->
-  <img
-    width="75%"
-    src="https://streak-stats.demolab.com?user=lingamanigandan&theme=dark&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=FFFFFF"
-    alt="GitHub Contribution Streak"
-  />
-
-</div>
-
-
-## ◈ CONTRIBUTION ACTIVITY
+## `04` GITHUB STATISTICS
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/lingamanigandan/lingamanigandan/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+
+<img src="github-metrics.svg" width="100%" alt="GitHub Statistics and Most Used Languages"/>
+
 </div>
 
 ---
 
-## ◈ CURRENT FOCUS
-
-- Building production-ready full-stack applications.
-- Exploring AI and machine learning technologies.
-- Improving backend architecture and API development.
-- Working with databases and cloud platforms.
-- Developing practical software solutions.
-
----
-
-## ◈ CONNECT WITH ME
+## `05` CONTRIBUTION SNAKE
 
 <div align="center">
 
-<a href="https://github.com/lingamanigandan">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-000000?style=for-the-badge&logo=github&logoColor=D4AF37"/>
-</a>
+<img src="https://raw.githubusercontent.com/lingamanigandan/lingamanigandan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=lingamanigandan&label=PROFILE%20VIEWS&color=D4AF37&style=flat-square"/>
+---
 
-<br/><br/>
+## `06` CURRENT FOCUS
 
-### `DESIGN WITH PURPOSE. CODE WITH PASSION.`
+- Full-Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Data Science and Analytics
+- Database Design and API Development
+- Building real-world software projects
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:171717,100:000000&height=120&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+### `BUILD • LEARN • INNOVATE`
+
+**Thanks for visiting my profile!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=lingamanigandan&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS)
 
 </div>
