@@ -24,8 +24,6 @@
 
 ## ◈ ABOUT ME
 
-```yaml
-
 name: Lingamanigandan Ramalingam
 role: AI & Data Science Student
 interests:
@@ -42,8 +40,6 @@ currently_learning:
 goal: Building practical and scalable applications
 
 ```
-
----
 
 ## ◈ TECHNOLOGY ARSENAL
 
@@ -130,9 +126,6 @@ goal: Building practical and scalable applications
 
 </div>
 
-```
-
----
 
 ## ◈ CONTRIBUTION ACTIVITY
 
