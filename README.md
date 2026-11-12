@@ -100,17 +100,34 @@ goal: Building practical and scalable applications
 
 ## ◈ GITHUB ANALYTICS
 
+```html
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lingamanigandan&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&ring_color=D4AF37"/>
+  <!-- GitHub Statistics -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=lingamanigandan&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&ring_color=D4AF37"
+    alt="GitHub Statistics"
+  />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingamanigandan&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF"/>
+  <!-- Most Used Languages -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingamanigandan&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF"
+    alt="Most Used Languages"
+  />
 
-<br/>
+  <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=lingamanigandan&theme=dark&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=FFFFFF"/>
+  <!-- GitHub Streak -->
+  <img
+    width="75%"
+    src="https://streak-stats.demolab.com?user=lingamanigandan&theme=dark&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=FFFFFF"
+    alt="GitHub Contribution Streak"
+  />
 
 </div>
+```
 
 ---
 
