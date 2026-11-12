@@ -24,7 +24,6 @@
 
 ## ◈ ABOUT ME
 
-```yaml
 name: Lingamanigandan Ramalingam
 role: AI & Data Science Student
 interests:
