@@ -117,9 +117,11 @@ goal: Building practical and scalable applications
 ## ◈ CONTRIBUTION ACTIVITY
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/lingamanigandan/output/main/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+  <img
+    src="https://raw.githubusercontent.com/lingamanigandan/lingamanigandan/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 </div>
 
 ---
