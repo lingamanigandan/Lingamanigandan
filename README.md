@@ -65,13 +65,21 @@ goal: Building practical and scalable applications
 
 ## ◈ FEATURED PROJECTS
 
+```html
 <div align="center">
 
 <a href="https://github.com/lingamanigandan/wonderla">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lingamanigandan&repo=wonderla&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=292929" width="80%"/>
+
+  <img
+    src="https://opengraph.githubassets.com/1/lingamanigandan/wonderla"
+    width="80%"
+    alt="Medishop Pharmacy Project"
+  />
+
 </a>
 
 </div>
+```
 
 ### 01. MediShop Pharmacy Management
 - Pharmacy inventory and stock management.
